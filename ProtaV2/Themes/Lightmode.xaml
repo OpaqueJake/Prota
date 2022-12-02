@@ -52,6 +52,10 @@
     <Color x:Key="SliderTrackDarkColor">#FFC5CBF9</Color>
 
     <Color x:Key="NavButtonFrameColor">#FF3843C4</Color>
+    
+    <!-- DoneButton Colors -GR-->
+    <Color x:Key="_MedGreen">#008000</Color>
+    <Color x:Key="_Green">#38b000</Color>
 
     <LinearGradientBrush x:Key="MenuPopupBrush" StartPoint="0.5,0" EndPoint="0.5,1">
         <GradientStop Offset="0" Color="{DynamicResource ControlLightColor}" />

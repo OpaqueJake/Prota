@@ -271,7 +271,7 @@
                                             VerticalAlignment="Center"
                                             Click="CheckButton_Click"
                                             Content="Set Done"
-                                            Style="{StaticResource DefaultButton}"
+                                            Style="{StaticResource DoneButton}"
                                             Visibility="Visible" />
                                     </Grid>
 

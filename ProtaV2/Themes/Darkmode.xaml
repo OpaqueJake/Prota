@@ -52,6 +52,10 @@
 
     <Color x:Key="NavButtonFrameColor">#FF3843C4</Color>
 
+    <!-- DoneButton Colors -GR-->
+    <Color x:Key="_MedGreen">#0b3215</Color>
+    <Color x:Key="_Green">#314a1c</Color>
+
     <LinearGradientBrush x:Key="MenuPopupBrush"
                      EndPoint="0.5,1"
                      StartPoint="0.5,0">
