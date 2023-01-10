@@ -1,2 +1,2 @@
 # Introduction 
-Welcome to our project! We plan to create a Desktop application that will serve as an organizer & planner
+Welcome to our project! We created a Desktop application that serves as an organizer & planner called Prota.
